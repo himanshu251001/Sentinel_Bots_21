@@ -20,7 +20,7 @@ To globalise the Indian handicraft industry? Providing a shared platform for the
 - Download the Repo
 - Go to `Crafts_MarketPlace` (It is root folder) & run 
    ```
-   python manage.py makemigration
+   python manage.py makemigrations
    python manage.py migrate
    python manage.py runserver
    ```
