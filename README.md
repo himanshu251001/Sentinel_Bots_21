@@ -38,5 +38,5 @@ To globalise the Indian handicraft industry? Providing a shared platform for the
 - [Himanshu Mishra](https://github.com/himanshu251001) - Frontend & Idea Approach
 - [Vaishnavi Khushi](https://github.com/vaishnavikhushi14) - Frontend & Design
 - [Amrit Anand](https://github.com/Amrit232) - Frontend & Datasets
-- [Kumar Spandan Pattanayak](https://github.com/5p7Ro0t) - Backend
+- [Kumar Spandan Pattanayak](https://github.com/5p7Ro0t) - Backend & Database
  
