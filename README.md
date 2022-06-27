@@ -2,6 +2,8 @@
 
 **Team Name :** Sentinal_Bots
 
+**Organised By :** [Codex Iter](http://github.com/codex-iter)
+
 ### Problem Statement Title
 Over 23 million artisans work in the Indian handicraft and handloom industry. A cross-border e-commerce marketplace will bring customers and sellers together on a single business platform. It will aid in the expansion of their firm as well as the overall economy of our country.
 To provide a unique e-commerce platform for craftsmen to market their wares. Demand forecasting for required products, automatic quality checks on the objects, and sentiment analysis with next recommended actions for the artist will be implemented.
@@ -40,3 +42,4 @@ To globalise the Indian handicraft industry? Providing a shared platform for the
 - [Amrit Anand](https://github.com/Amrit232) - Frontend & Datasets
 - [Kumar Spandan Pattanayak](https://github.com/5p7Ro0t) - Backend & Database
  
+**Thank You Codex Iter for organising this wonderful Hackathon :blush:**
